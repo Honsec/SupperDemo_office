@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_slide.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\layout\\fragment_slide.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_slide.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\layout\\layout_slide.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tabmain.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\layout\\activity_tabmain.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_slidebar.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\layout\\activity_slidebar.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\tab_top2.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\layout\\tab_top2.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_moretab.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\layout\\activity_moretab.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_spring.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\layout\\activity_spring.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_slidebar.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\layout\\layout_slidebar.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\tab_top.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\layout\\tab_top.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tabmain.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\layout\\fragment_tabmain.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\layout_slide_menu.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\layout\\layout_slide_menu.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\item_slidemenu.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\layout\\item_slidemenu.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\tab_main.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\layout\\tab_main.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\tab_guide.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\layout\\tab_guide.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_slidemain.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\layout\\activity_slidemain.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tabmain_item.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\layout\\fragment_tabmain_item.xml"
+    }
+]

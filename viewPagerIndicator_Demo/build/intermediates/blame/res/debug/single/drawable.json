@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_radio_button_bg.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\drawable\\tab_radio_button_bg.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\c.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\drawable\\c.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selector.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\drawable\\tab_selector.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\maintab_4_selector.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\drawable\\maintab_4_selector.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\maintab_3_selector.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\drawable\\maintab_3_selector.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\maintab_2_selector.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\drawable\\maintab_2_selector.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\maintab_1_selector.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\drawable\\maintab_1_selector.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\ap_base_menu_shadow.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\drawable\\ap_base_menu_shadow.xml"
+    }
+]

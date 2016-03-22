@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SuperDemo_office.iml" filepath="$PROJECT_DIR$/SuperDemo_office.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_hongsec_tab/demo_hongsec_tab.iml" filepath="$PROJECT_DIR$/demo_hongsec_tab/demo_hongsec_tab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/indicator_hyman/indicator_hyman.iml" filepath="$PROJECT_DIR$/indicator_hyman/indicator_hyman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_hongsec_tab/lib_hongsec_tab.iml" filepath="$PROJECT_DIR$/lib_hongsec_tab/lib_hongsec_tab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewPagerIndicator_Demo/viewPagerIndicator_Demo.iml" filepath="$PROJECT_DIR$/viewPagerIndicator_Demo/viewPagerIndicator_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewPagerIndicator_Library/viewPagerIndicator_Library.iml" filepath="$PROJECT_DIR$/viewPagerIndicator_Library/viewPagerIndicator_Library.iml" />
+    </modules>
+  </component>
+</project>

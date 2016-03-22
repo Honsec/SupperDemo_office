@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\color\\tab_top_selector.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\color\\tab_top_selector.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\color\\tab_main_selector.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\color\\tab_main_selector.xml"
+    },
+    {
+        "merged": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\build\\intermediates\\res\\merged\\debug\\color\\tab_top2_selector.xml",
+        "source": "E:\\android_studio_code\\SuperDemo_office\\viewPagerIndicator_Demo\\src\\main\\res\\color\\tab_top2_selector.xml"
+    }
+]

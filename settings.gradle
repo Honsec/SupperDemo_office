@@ -1,0 +1,3 @@
+include ':indicator_hyman', ':lib_hongsec_tab', ':demo_hongsec_tab'
+include ':viewPagerIndicator_Library'
+include ':viewPagerIndicator_Demo'

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+        <com.hongsec.frame.tab.view.viewpager.SViewPager
+            android:id="@+id/tabmain_viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            />
+
+        <com.hongsec.frame.tab.view.indicator.FixedIndicatorView
+            android:background="#ffffff"
+            android:id="@+id/tabmain_indicator"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"/>
+
+</LinearLayout>
